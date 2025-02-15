@@ -1,0 +1,4 @@
+Simple Random stats
+Stratified stats
+Collective stats
+Systematic stats
